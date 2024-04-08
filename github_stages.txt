@@ -2,6 +2,7 @@ GIT BRANCH - branch ni uurin project iin uur hesguuded
             bolomjiig olgodog code bichij duusaad branch
             hiiheer undsen main luu merge hiiged oruulchdg
             teglee geed busad zuilsdee nuluuluhgui
+        CHECK OUT - ter branch aa checkldgee (jishe ni main master geed)
 GET PULL - Modified buyu uurchulsun hesgiig l zuwhun main lu 
             yvuuldag
 REBASE -   History nuud zursun ijil baih shaardlagatai uyd
@@ -25,4 +26,15 @@ RESET --HARD -> discard any local changes (index zergg)
                 (gehdee push hiisneer buren ustana)
 GIT LOG --ONELINE -> to display the output as one commit per line
                     jishee ni head deeree commit hiisen ner zergee harj bolno
+
+
+        (TURSHILT)
+Ene text file iig pushlj baih uyd 2 branch uuseed merge/pull request hiij bolq baisimlda 
+shaltgaan ni REMOTE ADD hiigeegui baisnaas bolson baina hucheer pushleed bsin bnoo GG
+Bas history ni uur baisan uchraaas bolkuesn tgeed REMOTE ADD hiigeed REBASE hiisneer merge
+hiij bolsoon kk. Odoo yaj neg branchaa ustgnaa GG. 
+
+git branch -d <branch> ingejil ustgdg ym shg bn iininiinii
+
+COMMIT AMEND advantage ni arai tsewerhen commit history ntrte boloh l ymdoo gjawvs
 
