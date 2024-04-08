@@ -37,4 +37,5 @@ hiij bolsoon kk. Odoo yaj neg branchaa ustgnaa GG.
 git branch -d <branch> ingejil ustgdg ym shg bn iininiinii
 
 COMMIT AMEND advantage ni arai tsewerhen commit history ntrte boloh l ymdoo gjawvs
-
+gants uurchlultuu yvuulj chdku bsn commit higdku bsi tgsm cm ehled nbranch hiih estoi bsnym shg bna
+Aan ugui bsin bna ehleed add hiiher modified ulaan ni nogoon bolod commit hiih erhte bolhin bn bi hha
