@@ -1,0 +1,28 @@
+GIT BRANCH - branch ni uurin project iin uur hesguuded 
+            bolomjiig olgodog code bichij duusaad branch
+            hiiheer undsen main luu merge hiiged oruulchdg
+            teglee geed busad zuilsdee nuluuluhgui
+GET PULL - Modified buyu uurchulsun hesgiig l zuwhun main lu 
+            yvuuldag
+REBASE -   History nuud zursun ijil baih shaardlagatai uyd
+            rebase hiigeed history g ijil bolgoj bolno
+COMMIT -   Uurchlult hiigeed yvuulahdaa ashigladag
+COMMIT -M   -> Message tei yvuulah buyyu jishee ni 
+                "added something" or "fixed this"...
+COMMIT --AMEND -> umnuh commit iig replace hiine
+                tegheer jijg aldaanuud garhas sergiildeg
+CLONE -> CREATE A BRANCH -> CREATE PULL REQUEST -> MERGE
+PULL REQUEST -> Neg branch iig ngu branch tei negtgeh gehdee
+                ngu branchiin tald uurchlultuudiig haruulad
+                discuss/review hiih bolomj olgodog
+RESET -> UNDO hiih jishee ni neg commit hiisne undo hiih
+RESET --SOFT -> code commit hiigd pushlhed (unstaged - staged)
+                suuliin commit iig butsaad unstaged bolgood com der
+                avcarna
+RESET --HARD -> discard any local changes (index zergg)
+                code o commit hiiged uurchilchuud reset hard gevel
+                suuliin commit hiisen history iig code toi ni tsug ustgana
+                (gehdee push hiisneer buren ustana)
+GIT LOG --ONELINE -> to display the output as one commit per line
+                    jishee ni head deeree commit hiisen ner zergee harj bolno
+
